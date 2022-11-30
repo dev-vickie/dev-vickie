@@ -33,7 +33,7 @@ git clone https://github.com/flutterkisumu/el_gato.git
 Change to the repository directory on your computer (if you are not already there):
 
 ```
-cd first-contribution
+cd project-name
 ```
 
 Now create a branch using the `git switch` command:
@@ -45,7 +45,7 @@ git switch -c your-new-branch-name
 For example:
 
 ```
-git switch -c add-alonzo-church
+git switch -c add-ui-changes
 ```
 
 ## Make necessary changes you want to code and commit those changes
@@ -83,10 +83,11 @@ If you go to your repository on GitHub, you'll see a `Compare & pull request` bu
 
 
 
-Now submit the pull request.
+Now submit the pull request - with a description of the changes you have made
 
 
-Soon your changes will be merged into the main branch of this project. You will get a notification email once the changes have been merged.
+Soon your changes will be reviewed and merged into the main branch of this project. You will get a notification email once the changes have been merged.
+
 
 
 
