@@ -2,12 +2,12 @@
 
 #### If you don't have git on your machine, [install it](https://help.github.com/articles/set-up-git/).
 
-## Fork this repository
+## 1.Fork this repository
 
 Fork this repository by clicking on the fork button on the top of this page.
 This will create a copy of this repository in your account.
 
-## Clone the repository
+## 2.Clone the repository
 
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.
 
@@ -28,7 +28,7 @@ git clone https://github.com/flutterkisumu/el_gato.git
 ```
 
 
-## Create a branch
+## 3.Create a branch
 
 Change to the repository directory on your computer (if you are not already there):
 
@@ -48,7 +48,7 @@ For example:
 git switch -c add-ui-changes
 ```
 
-## Make necessary changes you want to code and commit those changes
+## 4.Make necessary changes you want to code and commit those changes
 
 If you go to the project directory and execute the command `git status`, you'll see there are changes.
 
@@ -65,7 +65,7 @@ git commit -m "Made -this and this change"
 ```
 
 
-## Push changes to GitHub
+## 5.Push changes to GitHub
 
 Push your changes using the command `git push`:
 
@@ -77,7 +77,7 @@ replacing `your-branch-name` with the name of the branch you created earlier.
 
 
 
-## Submit your changes for review
+## 6.Submit your changes for review
 
 If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
 
