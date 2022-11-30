@@ -85,9 +85,9 @@ If you go to your repository on GitHub, you'll see a `Compare & pull request` bu
 
 Now submit the pull request - with a description of the changes you have made
 
-
 Soon your changes will be reviewed and merged into the main branch of this project. You will get a notification email once the changes have been merged.
 
+Don't forget to star the repo 🤩 
 
 
 
