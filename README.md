@@ -2,7 +2,7 @@
 ## Hi,welcome👋
 
 # 💫 About Me:
-🔭 I’m currently working on developing fullstack mobile applications using flutter<br><br>👯  I’m looking to collaborate on any flutter project<br><br>🌱 I’m currently learning clean flutter architecture,Go backend<br><br>💬 Ask me about flutter,my developer's journey!<br><br>⚡ Fun fact : I like making new friends
+🔭 I’m currently working on developing fullstack mobile applications using flutter<br><br>👯  I’m looking to collaborate on any flutter project<br><br>🌱 I’m currently learning clean flutter architecture, Go backend<br><br>💬 Ask me about flutter,my developer's journey!<br><br>⚡ Fun fact : I like making new friends
 
 
 
