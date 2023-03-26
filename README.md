@@ -18,10 +18,6 @@
 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=dev-vickie&theme=gruvbox&hide_border=false)<br/>
-
-
 
 
 ### ✍️ Random Dev Quote
