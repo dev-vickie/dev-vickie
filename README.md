@@ -2,7 +2,7 @@
 ## Hi,welcome👋
 
 # 💫 About Me:
-🔭 I’m currently working on developing fullstack apps with Flutter/Node.js<br><br>⚡ Fun fact : I like making new friends
+🔭 I’m currently working on developing fullstack apps with React,Flutter and Node.js<br><br>⚡ Fun fact : I like making new friends
 
 ### Wakatime
 [![wakatime](https://wakatime.com/badge/user/1c3d2ce2-6e01-4f9d-9f49-ed105f7133af.svg)](https://wakatime.com/@1c3d2ce2-6e01-4f9d-9f49-ed105f7133af)
