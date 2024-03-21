@@ -2,7 +2,8 @@
 ## Hi,welcome👋
 
 # 💫 About Me:
-🔭 I’m a software dev<br><br>⚡ Fun fact : I like making new friends
+🔭 I’m a software dev<br><br>⚡ Currently : Mentoring peers at Dekut,UoEm and Karatina Uni - [![Check the Youtube Series](https://www.youtube.com/watch?v=TMq-h-uNPG8&list=PLSPfz2EmykxJDxOhc3pfnJLo2z020X9G_) 
+
 
 ### Wakatime
 [![wakatime](https://wakatime.com/badge/user/1c3d2ce2-6e01-4f9d-9f49-ed105f7133af.svg)](https://wakatime.com/@1c3d2ce2-6e01-4f9d-9f49-ed105f7133af)
