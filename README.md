@@ -2,7 +2,7 @@
 ## Hi,welcome👋
 
 # 💫 About Me:
-🔭 I’m a software dev<br><br>⚡ Currently : Mentoring peers at Dekut,UoEm and Karatina Uni - [Check the Youtube Series](https://www.youtube.com/watch?v=TMq-h-uNPG8&list=PLSPfz2EmykxJDxOhc3pfnJLo2z020X9G_)
+🔭 I’m a software dev
 
 
 ### Wakatime
